@@ -22,9 +22,8 @@
 - 📊 [EDA on IPL Dataset](https://github.com/lohita181/ipl-eda)
 
 📫 How to reach me:
-- Email: [your.email@example.com]
+- Email: [lohitavenkatesh@gmail.com]
 - LinkedIn: [linkedin.com/in/lohita181](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ⚡ Fun fact:
 > I enjoy building full-stack projects and exploring ML in my free time. I'm always curious about how things work and love turning ideas into real apps.
